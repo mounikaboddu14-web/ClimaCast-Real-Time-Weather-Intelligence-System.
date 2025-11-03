@@ -30,9 +30,13 @@ It demonstrates API integration, JSON handling, GUI design, and data visualizati
 🔮 Future Scope
 
 --> Add geolocation detection
+
 --> Visualize additional metrics (wind, pressure, rainfall)
+
 --> Enable multi-city comparison
+
 --> Cloud data storage for historical analysis
+
 -->Extend to mobile/web apps and add alert notifications
 
 The below are the advantages and disadvantages of the Climacast
