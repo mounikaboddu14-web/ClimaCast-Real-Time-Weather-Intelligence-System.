@@ -5,13 +5,13 @@ Matplotlib visualization to provide users with real-time weather updates and for
 
 The program allows users to:
 
-Enter a city name.
+--> Enter a city name.
 
-Retrieve current weather (temperature, humidity, condition).
+--> Retrieve current weather (temperature, humidity, condition).
 
-Display a 12-hour forecast.
+--> Display a 12-hour forecast.
 
-Plot a 5-day temperature trend using Matplotlib.
+--> Plot a 5-day temperature trend using Matplotlib.
 
 It demonstrates API integration, JSON handling, GUI design, and data visualization — all within a single desktop application.
 
